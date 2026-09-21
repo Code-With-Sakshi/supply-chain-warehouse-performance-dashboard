@@ -57,8 +57,9 @@ Calculated columns were created for order month, delivery delay and inventory ga
 - `Milestone4_Updated_Sheet.xlsx` — Source dataset
 - `dashboard-preview.png` — Dashboard screenshot
 
-## Author
+## Team 3
+Sakshi
+Nadini
+Vamsi
+Aditya
 
-**Pabbiti Vamsi**  
-B.Tech Computer Science and Engineering — Data Science  
-Graduation Year: 2027
