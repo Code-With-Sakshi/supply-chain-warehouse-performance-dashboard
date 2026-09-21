@@ -58,8 +58,8 @@ Calculated columns were created for order month, delivery delay and inventory ga
 - `dashboard-preview.png` — Dashboard screenshot
 
 ## Team 3
-Sakshi
-Nadini
-Vamsi
+Sakshi,
+Nadini,
+Vamsi,
 Aditya
 
