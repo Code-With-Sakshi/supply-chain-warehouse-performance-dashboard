@@ -30,23 +30,6 @@ The objective is to transform supply-chain data into meaningful KPIs and busines
 
 ---
 
-## 🔄 Project Data Flow
-
-Raw Supply Chain Data
-        ↓
-Data Cleaning & Transformation
-        ↓
-Data Modeling
-        ↓
-DAX KPI Formation
-        ↓
-Power BI Visualizations
-        ↓
-Interactive Dashboard
-        ↓
-Business Insights & Decisions
----
-
 ## 📊 Dashboard Analysis
 1. Inventory Analysis
 
