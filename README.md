@@ -6,7 +6,7 @@ This project presents an interactive Power BI dashboard for analyzing EV supply-
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Final Dashboard.png)
 
 ## Key Performance Indicators
 
