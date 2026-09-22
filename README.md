@@ -2,7 +2,6 @@
 
 
 ## 📊 Project Overview
-
 This project presents an interactive **Power BI dashboard** for analyzing supply chain and warehouse performance.
 
 The dashboard brings together multiple operational areas into a single decision-support view, including:
@@ -19,7 +18,6 @@ The objective is to transform supply-chain data into meaningful KPIs and busines
 ---
 
 ## 🎯 Objectives
-
 - Monitor inventory levels against target inventory
 - Analyze order fulfillment and delivery performance
 - Evaluate supplier reliability and lead-time performance
@@ -31,7 +29,6 @@ The objective is to transform supply-chain data into meaningful KPIs and busines
 ---
 
 ## 🔄 Project Data Flow
-
 Raw Supply Chain Data
         ↓
 Data Cleaning & Transformation
