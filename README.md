@@ -76,7 +76,7 @@ Areas requiring operational improvement
 
 ---
 
-![Dashboard Preview](Final/Final.jpegl)
+![Dashboard Preview](Final/Final.jpeg)
 
 ---
 
