@@ -1,10 +1,97 @@
 # EV Supply Chain and Warehouse Performance Dashboard
 
-## Project Overview
+# Supply Chain & Warehouse Performance Dashboard
 
-This project presents an interactive Power BI dashboard for analyzing EV supply-chain and warehouse performance. It combines inventory, orders, deliveries, suppliers, transportation and cost information on a single dashboard.
+## 📊 Project Overview
 
-## Dashboard Preview
+This project presents an interactive **Power BI dashboard** for analyzing supply chain and warehouse performance.
+
+The dashboard brings together multiple operational areas into a single decision-support view, including:
+
+- Inventory
+- Orders & Delivery
+- Supplier Performance
+- Transportation
+- Warehouse Performance
+- Operational Costs
+
+The objective is to transform supply-chain data into meaningful KPIs and business insights that can support operational decision-making.
+
+---
+
+## 🎯 Objectives
+
+- Monitor inventory levels against target inventory
+- Analyze order fulfillment and delivery performance
+- Evaluate supplier reliability and lead-time performance
+- Analyze transportation costs and transportation modes
+- Monitor warehouse utilization and operating costs
+- Compare operational performance across countries and warehouses
+- Provide an interactive dashboard for data-driven decision-making
+
+---
+
+## 🔄 Project Data Flow
+
+Raw Supply Chain Data
+        ↓
+Data Cleaning & Transformation
+        ↓
+Data Modeling
+        ↓
+DAX KPI Formation
+        ↓
+Power BI Visualizations
+        ↓
+Interactive Dashboard
+        ↓
+Business Insights & Decisions
+
+
+
+## 📊 Dashboard Analysis
+1. Inventory Analysis
+
+The dashboard compares current inventory with target inventory to identify inventory gaps and monitor stock levels across product categories.
+
+2. Order & Delivery Analysis
+
+Order trends, fulfillment status and delivery performance are analyzed to identify delivery-related performance gaps.
+
+3. Supplier Analysis
+
+Supplier performance is evaluated using reliability and lead-time indicators to support supplier performance monitoring.
+
+4. Transportation Analysis
+
+Transportation costs are analyzed by:
+
+Transportation mode
+Country/region
+Time period
+Shipment
+5. Warehouse Analysis
+
+Warehouse performance is analyzed using:
+
+Inventory levels
+Warehouse utilization
+Order fulfillment
+Operating cost
+Country and warehouse-level comparisons
+
+## 🔍 Key Business Insights
+
+The dashboard helps identify:
+
+Inventory shortages or excess inventory
+Delivery performance gaps
+Differences in supplier reliability
+High transportation-cost areas
+Transportation modes contributing to overall cost
+Differences in warehouse performance
+Areas requiring operational improvement
+
 
 ![Dashboard Preview](Final-Dashboard.png)
 
@@ -51,11 +138,6 @@ Calculated columns were created for order month, delivery delay and inventory ga
 - Air transportation generated the highest transportation cost.
 - Supplier reliability was high, but delivery performance remained low.
 
-## Files
-
-- `Supply_Chain_Warehouse_Dashboard.pbix` — Power BI report
-- `Milestone4_Updated_Sheet.xlsx` — Source dataset
-- `dashboard-preview.png` — Dashboard screenshot
 
 ## Team 3
 Sakshi,
