@@ -1,6 +1,5 @@
 # EV Supply Chain and Warehouse Performance Dashboard
 
-# Supply Chain & Warehouse Performance Dashboard
 
 ## 📊 Project Overview
 
