@@ -51,15 +51,15 @@ Transportation mode
 Country/region
 Time period
 Shipment
+
 5. Warehouse Analysis
 
 Warehouse performance is analyzed using:
-
-Inventory levels
-Warehouse utilization
-Order fulfillment
-Operating cost
-Country and warehouse-level comparisons
+- Inventory levels
+- Warehouse utilization
+- Order fulfillment
+- Operating cost
+- Country and warehouse-level comparisons
 ---
 
 ## 🔍 Key Business Insights
